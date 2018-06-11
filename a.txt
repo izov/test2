@@ -1,0 +1,17 @@
+﻿An ANA All Nippon Airways Boeing 767-300, registration JA610A performing flight NH-956 from Beijing (China) to Tokyo Narita (Japan) with 183 passengers and 10 crew, touched down on Narita Airport's runway 16R, bounced off and touched down a second time nose gear first before the aircraft settled on the runway at about 13:30L (04:30Z), rolled out and taxied to the apron. 5 passengers and 4 cabin crew received minor injuries, the aircraft received substantial damage.
+
+A first post flight examination revealed the fuselage skin received numerous serious creases just ahead of the wing root all around the circumference.
+
+Japan's TSB confirmed the aircraft received substantial damage and opened an investigation into the accident.
+
+On Jun 27th 2012 the JTSB reported that other than initially reported there had been minor injuries (sprains, bruises) to 5 passengers and 4 cabin crew as result of the hard landing. The aircraft sustained substantial damage to both main and the nose landing gear strut, the fuselage received wrinkles just ahead of the leading edge of the wings and cracks as result of deformation. According to the flight data recorder the right main gear contacted ground first and lifted off again, subsequently the nose gear touched down, followed by right then left main gear, the nose gear lifted off again after both main gear settled on the runway. The flight data recorder recorded a vertical acceleration of 1.8G when the nose gear touched down. Aerodrome recordings show the wind at the time of landing from southwest with speeds between 16 knots and 29 knots instantaneous, while the average wind is shown from southwest at 6 knots. The data suggest a strong gust from the right at the time of landing.
+
+On Aug 1st 2016 the JTSB released their final report concluding the probable cause of the accident was:
+
+It is highly probable that this accident occurred by the damage to the aircraft is a result of the hard landing of the nose landing gear after its bounce when attempting to land at Runway 16R of Narita International Airport.
+
+It is probable that the hard landing of the nose landing gear was caused because the Captain could not notice the bounce of the aircraft and controlled it to take a nose down position in order to make early touch-down of the nose landing gear.
+
+It is probable that the continued landing with the aircraft being in an unstable posture caused by a crosswind with gust which occurs when there is a strong southwest wind around the airport contributed to the occurrence of the accident.
+
+The JTSB analysed that the approach was flown on autopilot until about 450 feet, when the autopilot was disconnected. The JTSB wrote: "The change of the pitch angle at that time became more frequent within the range from -1.8° to +2.6° and the adjustment operation against the pitch angle change was made in a similar manner to the adjustment operation against the roll angle change. In addition, the speed at that time was changing within the range from 137 kt to 164 kt and the change was frequent exceeding the upper and lower limits of a deviation call. Therefore, it is probable that it was difficult to keep stabilized approach since the aircraft was in a nose-down attitude during the period from the decision altitude to the runway threshold and since the speed was intermittently changed exceeding the limits to issue a deviation call."
