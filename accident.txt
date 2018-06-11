@@ -1,0 +1,61 @@
+﻿Accident: ANA B763 at Tokyo on Jun 20th 2012, hard landing
+
+
+By Simon Hradecky, created Wednesday, Jun 20th 2012 15:46Z, last updated Monday, Aug 1st 2016 14:44Z
+An ANA All Nippon Airways Boeing 767-300, registration JA610A performing flight NH-956 from Beijing (China) to Tokyo Narita (Japan) with 183 passengers and 10 crew, touched down on Narita Airport's runway 16R, bounced off and touched down a second time nose gear first before the aircraft settled on the runway at about 13:30L (04:30Z), rolled out and taxied to the apron. 5 passengers and 4 cabin crew received minor injuries, the aircraft received substantial damage.
+
+A first post flight examination revealed the fuselage skin received numerous serious creases just ahead of the wing root all around the circumference.
+
+Japan's TSB confirmed the aircraft received substantial damage and opened an investigation into the accident.
+
+On Jun 27th 2012 the JTSB reported that other than initially reported there had been minor injuries (sprains, bruises) to 5 passengers and 4 cabin crew as result of the hard landing. The aircraft sustained substantial damage to both main and the nose landing gear strut, the fuselage received wrinkles just ahead of the leading edge of the wings and cracks as result of deformation. According to the flight data recorder the right main gear contacted ground first and lifted off again, subsequently the nose gear touched down, followed by right then left main gear, the nose gear lifted off again after both main gear settled on the runway. The flight data recorder recorded a vertical acceleration of 1.8G when the nose gear touched down. Aerodrome recordings show the wind at the time of landing from southwest with speeds between 16 knots and 29 knots instantaneous, while the average wind is shown from southwest at 6 knots. The data suggest a strong gust from the right at the time of landing.
+
+On Aug 1st 2016 the JTSB released their final report concluding the probable cause of the accident was:
+
+It is highly probable that this accident occurred by the damage to the aircraft is a result of the hard landing of the nose landing gear after its bounce when attempting to land at Runway 16R of Narita International Airport.
+
+It is probable that the hard landing of the nose landing gear was caused because the Captain could not notice the bounce of the aircraft and controlled it to take a nose down position in order to make early touch-down of the nose landing gear.
+
+It is probable that the continued landing with the aircraft being in an unstable posture caused by a crosswind with gust which occurs when there is a strong southwest wind around the airport contributed to the occurrence of the accident.
+
+The JTSB analysed that the approach was flown on autopilot until about 450 feet, when the autopilot was disconnected. The JTSB wrote: "The change of the pitch angle at that time became more frequent within the range from -1.8° to +2.6° and the adjustment operation against the pitch angle change was made in a similar manner to the adjustment operation against the roll angle change. In addition, the speed at that time was changing within the range from 137 kt to 164 kt and the change was frequent exceeding the upper and lower limits of a deviation call. Therefore, it is probable that it was difficult to keep stabilized approach since the aircraft was in a nose-down attitude during the period from the decision altitude to the runway threshold and since the speed was intermittently changed exceeding the limits to issue a deviation call."
+
+The JTSB analysed the events after passing the runway threshold until right main gear touchdown:
+
+the pitch angle changed from about +1.9° to -1.6° after the aircraft passed the runway threshold. The nose-down operation was made at an altitude above ground of 40-30 ft and the nose began to descend at an altitude above ground of about 30 ft at which the flare operation was commenced. At an altitude above ground level of about 30-20 ft, the vertical acceleration decreased to 0.6 G and the aircraft was in a nose-down attitude.
+
+According to the description in 3.3.2.4, the wind situation changed from updraft to downdraft, and then to updraft before returning to near zero magnitude, moreover, the headwind component decreased and the crosswind component first increased, and then decreased. From the above, it is probable that the change of the pitch angle was caused by mainly the nose-down operation and also additionally the influence of the wind disturbance.
+
+According to Fig. 3-3, the thrust lever was operated slightly forward when the pitch angle decreased and the aircraft descended, but it is highly probable that the increase of the thrust of the engines were not enough to sufficiently reduce the descending rate.
+
+The statements in 2.1.2 (1) indicate that the Captain felt the descent of the aircraft at an altitude above ground of 20-10 ft and the descent rate data shown in Fig. 4 indicates that it was about 400-600 ft/min during the period from when it passed the altitude above ground level of 37 ft at 13:22:45 after passing the runway threshold to when it touched down. Accordingly, it is highly probable that the descent rate could not be sufficiently reduced due to the failure of making appropriate flare operations.
+
+After that, the nose rose up abruptly; consequently, in order to reduce the nose up, a momentary nose down operation was made, which reduced the increasing rate of the pitch angle.
+
+Then a nose up operation was made again and the gradual nose up operation was continued.
+
+Since Runway 16R, a longer runway of Narita Airport, was chosen for the landing of the aircraft, it is probable that it could touch down by effectively taking advantage of the long length of the runway and not decreasing the pitch after it passed the runway threshold. It is probable that, when the pitch significantly decreased after it passed the runway threshold, it should be recognized that appropriate landing operation would not be possible and the landing should not be continued. 
+
+The right main landing gear touched down at 13:22:49 with the pitch angle of +4.9°, the roll angle of +4°, and the speed of 143 kt.
+
+Following touchdown of the right main gear the JTSB analysed:
+
+According to the description in 2.1.1 and Fig. 3-3, the aircraft was rolled to the right at an angle of about 4° and took the nose-up attitude at an angle of about 5° when the main landing gear touched down for the first time. The vertical acceleration recorded in the FDR was 1.58 G at that time. After the touch down of the right main landing gear, the aircraft was rolling to the left and the pitch angle was descending. 
+
+About a second after the first touch down of the right main landing gear, the aircraft rebounded into the air. Incidentally, the speedbrakes did not extend due to touching down on the right main landing gear only. Then its pitch angle became negative (nose down) and the nose landing gear touched down. After the touch down of the nose landing gear, the right landing main gear touched down again, and then the left main landing gear touched down. The vertical acceleration recorded in the FDR was 1.72 G at that time. About a second after the touch down of the nose landing gear, only it rebounded into the air. Almost simultaneously, the speedbrakes extended and the thrust reverser began to deploy.
+
+According to the statements of the Captain and the First Officer in 2.1.2 (1) and (2), it is highly probable that they both could not recognize the bounce of the aircraft when the right main landing gear touched down for the first time. It is probable that even if the central part of the fuselage where the main landing gears were located bounced and floated, the pilots in the cockpit might not feel the airframe floating if the nose was lowered at the same time, because the cockpit was located on the forward fuselage.
+
+The First Officer did not make a call of speedbrake deployment; however, since the time from when the right main landing gear bounced to when the nose landing gear touched down was about one second, it is probable that the Captain, PF, could not have made operations responding to the bouncing even if the First Officer had made the call.
+
+According to Fig. 3-3, the nose-down operation began immediately before the first touch-down of the right main landing gear. It is probable that the nose down operations were made to control of the increase of the pitch angle since the nose was rising fast. It is probable that the nose down operations resulted in the high nose down speed when the nose landing gear touched down in addition to the effect of the right main landing gear bounced, causing the hard touch down of the nose landing gear.
+
+According to the statement described in 2.1.2 (1), it is highly probable that, when the right main landing gear floated and the nose had negative pitch, the Captain noticed that the aircraft had bounced and floated.
+
+After the touch down of the nose landing gear, the Captain controlled the aircraft to take a full nose down operation. As described in 2.1.2 (1), it is highly probable that this control was made since he considered that early touch-down of the nose landing gear would be safer to keep the rolling direction after the touch-down under a strong crosswind. (Nose down operation after the touch down will be further described in 3.6.)
+
+It is probable that this nose-down operation was continued and caused the second hard touch-down of the nose landing gear
+
+The JTSB analysed that according to the pitching moments encountered the nose gear was exposed to a force of 150,000lb at first as well as second touchdown of the nose gear, which exceeded the design limits. "Therefore, it is probable that the damage on the forward fuselage upper crown was caused by either or both of the first and second hard touch-downs of the nose gear."
+
+ 
